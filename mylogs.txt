@@ -1,0 +1,11 @@
+Water Drank at  2019-12-18 15:03:20.321926
+Exercise Done at  2019-12-18 15:03:28.788721
+Water Drank at  2019-12-18 15:03:35.252023
+Eyes Relaxed at  2019-12-18 15:03:39.509119
+Water Drank at  2020-01-09 08:43:53.758600
+Exercise Done at  2020-01-09 08:44:02.677359
+Water Drank at  2020-01-09 08:44:10.266191
+Eyes Relaxed at  2020-01-09 08:44:18.247511
+Water Drank at  2020-05-11 15:10:06.963315
+Exercise Done at  2020-05-11 15:10:11.695029
+Eyes Relaxed at  2020-05-11 15:10:17.543785
